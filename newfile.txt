@@ -1,1 +1,2 @@
 we are adding text to the new file
+this is the new text
